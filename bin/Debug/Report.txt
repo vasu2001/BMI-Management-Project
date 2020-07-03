@@ -1,0 +1,13 @@
+	BMI REPORT
+
+Name : Vasu
+Age : 17 yrs
+Sex : Male
+Height : 5 foots 9 inches
+Weight : 60 kg
+Phone No : 234342432
+BMI : 18.6426
+
+You are in healthy BMI range
+
+YOU COULD ESCAPE FROM MANY DISEASES EASILY JUST KEEP IT UP!

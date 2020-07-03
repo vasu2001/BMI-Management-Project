@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1534212932 source:c:\users\vasua\onedrive\documents\c++\bmi project ver2.0\main.cpp
+	<fstream>
+	<windows.h>
+	<vector>
+	<iostream>
+
+1543286286 
+
+1543286286 source:c:\users\vasu\desktop\new folder\bmi project ver2.1\main.cpp
+	<fstream>
+	<windows.h>
+	<vector>
+	<iostream>
+
+1591391172 source:/home/vasu/Downloads/Lectures/BMI project ver2.1/main.cpp
+	<fstream>
+	<vector>
+	<iostream>
+	<unistd.h>
+	<cstring>
+
